@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harish Kalahal</h1>
 <h3 align="center">Diligent undergraduate student seeking opportunities to apply academic knowledge and develop practical skills. Eager to contribute and grow both personally and professionally.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harish5232&label=Profile%20views&color=0e75b6&style=flat" alt="harish5232" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
